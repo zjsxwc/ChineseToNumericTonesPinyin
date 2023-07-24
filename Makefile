@@ -1,4 +1,4 @@
-.DEFAULT_GOAL := ChineseToNumericPinyin
+.DEFAULT_GOAL := ChineseToNumericTonesPinyin
 
-ChineseToNumericPinyin:
-	go build -o ChineseToNumericPinyin
+ChineseToNumericTonesPinyin:
+	go build -o ChineseToNumericTonesPinyin
